@@ -11,6 +11,6 @@ public class HelloController {
         Calc calc = new Calc();
         long result = calc.add(10, 20);
         
-        return "Welcome to Simple Ecommerce ver 11.0)";
+        return "Welcome to Simple Ecommerce ver 12.0)";
     }
 }
